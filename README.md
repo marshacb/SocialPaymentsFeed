@@ -4,6 +4,7 @@ This project allows users to view all non failed payment transfers as well as cr
 It supports the following request(s):
 
 ```GET /v1/payments/```
+
 ```POST /v1/transfers/```
 
 ## Prerequisites

@@ -1,4 +1,4 @@
-##Social Payments Server
+## Social Payments Server
 This project allows users to view all non failed payment transfers as well as create new transfers from from 1 user to another.
 
 It supports the following request(s):
